@@ -40,7 +40,7 @@ source: Poetry Foundation
 
 ---
 
-## Footnotes
+## Notas
 
 [^fn1]: 
 
