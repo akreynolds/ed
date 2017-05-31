@@ -17,7 +17,7 @@ source: Poetry Foundation
 - {:.indent-6}Fallen cold and dead.
 
 
-- O [Captain] ({{site.baseurl}}/texts/dreams/)! my Captain! rise up and hear the bells; 
+- O [Captain]({{site.baseurl}}/texts/dreams/)! my Captain! rise up and hear the bells; 
 - Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
 - For you bouquets and ribbon’d wreaths—for you the shores a-crowding,
 - For you they call, the swaying mass, their eager faces turning;
