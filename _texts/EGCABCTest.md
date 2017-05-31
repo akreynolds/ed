@@ -1,11 +1,11 @@
 ---
 layout: narrative
 title: "EGC ABC Text 1"
-author: 
-editor: 
+author: Enrique Gomez Carrillo
+editor: Andrew Reynolds
 rights: Public Domain
-source: Project Guttenberg
-publication-date: 2016
+source: Biblioteca nacional 
+publication-date: 1925
 toc:
 - Title Page
 - Preface
